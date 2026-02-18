@@ -1,0 +1,171 @@
+{
+  "agents": {
+    "defaults": {
+      "model": {
+        "primary": "anthropic/claude-sonnet-4-20250514"
+      },
+      "models": {
+        "anthropic/claude-opus-4-5": {
+          "alias": "opus"
+        }
+      },
+      "workspace": "/Users/keti/clawd",
+      "compaction": {
+        "mode": "safeguard"
+      },
+      "maxConcurrent": 4,
+      "subagents": {
+        "maxConcurrent": 8
+      },
+      "sandbox": {
+        "mode": "off"
+      }
+    },
+    "list": [
+      {
+        "id": "main",
+        "identity": {
+          "name": "kkbot",
+          "emoji": "🤖"
+        }
+      },
+      {
+        "id": "fitty",
+        "name": "fitty",
+        "workspace": "/Users/keti/clawd-fitty",
+        "agentDir": "/Users/keti/.clawdbot/agents/fitty/agent",
+        "identity": {
+          "name": "fitty",
+          "emoji": "🥗"
+        }
+      },
+      {
+        "id": "clawd",
+        "name": "clawd",
+        "workspace": "/Users/keti/clawd-purva",
+        "agentDir": "/Users/keti/.clawdbot/agents/clawd/agent",
+        "identity": {
+          "name": "Clawd",
+          "emoji": "🦞"
+        }
+      }
+    ]
+  },
+  "bindings": [
+    {
+      "agentId": "fitty",
+      "match": {
+        "channel": "whatsapp",
+        "accountId": "default",
+        "peer": {
+          "kind": "group",
+          "id": "120363425555739439@g.us"
+        }
+      }
+    },
+    {
+      "agentId": "clawd",
+      "match": {
+        "channel": "whatsapp",
+        "accountId": "default",
+        "peer": {
+          "kind": "group",
+          "id": "120363406870253077@g.us"
+        }
+      }
+    }
+  ],
+  "messages": {
+    "ackReactionScope": "group-mentions"
+  },
+  "commands": {
+    "native": "auto",
+    "nativeSkills": "auto",
+    "restart": true
+  },
+  "channels": {
+    "whatsapp": {
+      "dmPolicy": "allowlist",
+      "groupPolicy": "open",
+      "groupAllowFrom": [
+        "*"
+      ],
+      "dms": {
+        "919965802274@s.whatsapp.net": {}
+      },
+      "mediaMaxMb": 50,
+      "groups": {
+        "120363425555739439@g.us": {
+          "requireMention": false
+        },
+        "120363406071109282@g.us": {
+          "requireMention": false
+        },
+        "120363406870253077@g.us": {
+          "requireMention": false
+        }
+      },
+      "debounceMs": 0
+    }
+  },
+  "gateway": {
+    "port": 18789,
+    "mode": "local",
+    "bind": "loopback",
+    "auth": {
+      "mode": "token",
+      "token": "YOUR_TOKEN_HERE"
+    },
+    "tailscale": {
+      "mode": "off",
+      "resetOnExit": false
+    }
+  },
+  "skills": {
+    "install": {
+      "nodeManager": "npm"
+    },
+    "entries": {
+      "terminal": {
+        "enabled": true
+      },
+      "browser": {
+        "enabled": true
+      },
+      "filesystem": {
+        "enabled": true
+      },
+      "web-search": {
+        "enabled": true
+      },
+      "clipboard": {
+        "enabled": true
+      },
+      "notifications": {
+        "enabled": true
+      },
+      "cron": {
+        "enabled": true
+      },
+      "camera": {
+        "enabled": true
+      },
+      "screen": {
+        "enabled": true
+      },
+      "audio": {
+        "enabled": true
+      },
+      "image-generation": {
+        "enabled": true
+      }
+    }
+  },
+  "plugins": {
+    "entries": {
+      "whatsapp": {
+        "enabled": true
+      }
+    }
+  }
+}

@@ -1,0 +1,2289 @@
+{
+  "South Indian": {
+    "Idli": {
+      "cal": 138,
+      "protein": 4.6,
+      "carbs": 28.2,
+      "fat": 0.3,
+      "serving": "idli"
+    },
+    "Instant idli (with semolina)": {
+      "cal": 247,
+      "protein": 9.2,
+      "carbs": 43.4,
+      "fat": 3.6,
+      "serving": "idli"
+    },
+    "Semolina idli (Suji/Rava idli)": {
+      "cal": 206,
+      "protein": 9.3,
+      "carbs": 33.7,
+      "fat": 3.5,
+      "serving": "idli"
+    },
+    "Masala dosa": {
+      "cal": 165,
+      "protein": 3.3,
+      "carbs": 19.6,
+      "fat": 7.8,
+      "serving": "dosa"
+    },
+    "Semolina dosa (Suji/Rava dosa)": {
+      "cal": 227,
+      "protein": 7.3,
+      "carbs": 32.8,
+      "fat": 7.1,
+      "serving": "dosa"
+    },
+    "Plain dosa": {
+      "cal": 381,
+      "protein": 10.3,
+      "carbs": 64.1,
+      "fat": 8.4,
+      "serving": "dosa"
+    },
+    "Masala dosa mixed vegetable fillings": {
+      "cal": 145,
+      "protein": 4.8,
+      "carbs": 23,
+      "fat": 3.3,
+      "serving": "dosa"
+    },
+    "Masala dosa paneer fillings": {
+      "cal": 243,
+      "protein": 10.3,
+      "carbs": 29.8,
+      "fat": 8.8,
+      "serving": "dosa"
+    },
+    "Moong bean dosa (Pesarattu)": {
+      "cal": 286,
+      "protein": 12.3,
+      "carbs": 31.9,
+      "fat": 11.7,
+      "serving": "pesarattu"
+    },
+    "Jowar dosa": {
+      "cal": 294,
+      "protein": 8.5,
+      "carbs": 40.5,
+      "fat": 10.3,
+      "serving": "dosa"
+    },
+    "Sambar": {
+      "cal": 97,
+      "protein": 3.4,
+      "carbs": 10.6,
+      "fat": 4.4,
+      "serving": "bowl"
+    },
+    "Sambar powder (Sambar masala)": {
+      "cal": 297,
+      "protein": 12.5,
+      "carbs": 23.4,
+      "fat": 15.6,
+      "serving": "100g"
+    },
+    "Semolina upma (Suji/Rava upma)": {
+      "cal": 148,
+      "protein": 3.3,
+      "carbs": 16.3,
+      "fat": 7.5,
+      "serving": "bowl"
+    },
+    "Vermicelli upma (Semiya/Seviyan upma)": {
+      "cal": 149,
+      "protein": 3.1,
+      "carbs": 16.9,
+      "fat": 7.4,
+      "serving": "bowl"
+    },
+    "Rice upma": {
+      "cal": 151,
+      "protein": 2.6,
+      "carbs": 18,
+      "fat": 7.5,
+      "serving": "bowl"
+    },
+    "Bread upma": {
+      "cal": 130,
+      "protein": 2.8,
+      "carbs": 12.6,
+      "fat": 7.7,
+      "serving": "bowl"
+    },
+    "Vegetable upma": {
+      "cal": 146,
+      "protein": 4.7,
+      "carbs": 16.5,
+      "fat": 6.6,
+      "serving": "plate"
+    },
+    "Sprouts upma ": {
+      "cal": 316,
+      "protein": 9.5,
+      "carbs": 45,
+      "fat": 10.4,
+      "serving": "plate"
+    },
+    "Dahi vadas/Dahi bhalla": {
+      "cal": 668,
+      "protein": 3,
+      "carbs": 5.5,
+      "fat": 70.4,
+      "serving": "vada"
+    },
+    "Masala vada": {
+      "cal": 826,
+      "protein": 1.7,
+      "carbs": 4.1,
+      "fat": 89.2,
+      "serving": "vada"
+    },
+    "Peanut sago vada (Sabudana mungfali vada)": {
+      "cal": 750,
+      "protein": 1,
+      "carbs": 7.1,
+      "fat": 79.8,
+      "serving": "vada"
+    },
+    "Semolina carrot vada (Suji gajar vada)": {
+      "cal": 700,
+      "protein": 1.6,
+      "carbs": 6.5,
+      "fat": 74.1,
+      "serving": "vada"
+    },
+    "Sago cutlet/vadas (Sabudana cutlet/vadas)": {
+      "cal": 559,
+      "protein": 0.6,
+      "carbs": 11.2,
+      "fat": 57,
+      "serving": "cutlet"
+    },
+    "Plain urad dal vada (Uzunne vada/Minapa garelu/Ulundu vadai/Medu vada)": {
+      "cal": 745,
+      "protein": 4.4,
+      "carbs": 9.7,
+      "fat": 76.3,
+      "serving": "vada"
+    },
+    "Masala urad dal vada": {
+      "cal": 704,
+      "protein": 4.3,
+      "carbs": 9.9,
+      "fat": 71.6,
+      "serving": "vada"
+    },
+    "Fermented bengal gram vada (Khameerikrit/Ufna hua channa dal ka vada)": {
+      "cal": 658,
+      "protein": 4.1,
+      "carbs": 8.7,
+      "fat": 67.2,
+      "serving": "vada"
+    },
+    "Onion tomato uttapam": {
+      "cal": 462,
+      "protein": 1.9,
+      "carbs": 11.3,
+      "fat": 45.3,
+      "serving": "uttapam"
+    },
+    "Uttapam": {
+      "cal": 256,
+      "protein": 6.2,
+      "carbs": 36.3,
+      "fat": 9,
+      "serving": "uttapam"
+    },
+    "Appam": {
+      "cal": 268,
+      "protein": 3.1,
+      "carbs": 13.3,
+      "fat": 22.6,
+      "serving": "appam"
+    },
+    "Banana appam": {
+      "cal": 470,
+      "protein": 1.2,
+      "carbs": 20.1,
+      "fat": 42.5,
+      "serving": "appam"
+    }
+  },
+  "North Indian": {
+    "Chapati/Roti": {
+      "cal": 202,
+      "protein": 5.9,
+      "carbs": 35.6,
+      "fat": 3.6,
+      "serving": "chapati"
+    },
+    "Makki ki roti": {
+      "cal": 264,
+      "protein": 3.5,
+      "carbs": 24.2,
+      "fat": 16.8,
+      "serving": "roti"
+    },
+    "Sweet split chickpea roti (Sweet channa dal roti/Puranpoli)": {
+      "cal": 367,
+      "protein": 9.5,
+      "carbs": 62.7,
+      "fat": 7.9,
+      "serving": "roti"
+    },
+    "Paushtik roti": {
+      "cal": 149,
+      "protein": 7.2,
+      "carbs": 26.6,
+      "fat": 1.5,
+      "serving": "roti"
+    },
+    "Soya roti": {
+      "cal": 284,
+      "protein": 9.2,
+      "carbs": 40,
+      "fat": 9.2,
+      "serving": "roti"
+    },
+    "Plain parantha/paratha": {
+      "cal": 298,
+      "protein": 5.1,
+      "carbs": 30.7,
+      "fat": 16.9,
+      "serving": "parantha"
+    },
+    "Potato parantha/paratha (Aloo ka parantha/paratha)": {
+      "cal": 205,
+      "protein": 3.7,
+      "carbs": 23.9,
+      "fat": 10.2,
+      "serving": "parantha"
+    },
+    "Radish parantha/paratha (Mooli ka parantha/paratha)": {
+      "cal": 184,
+      "protein": 3.3,
+      "carbs": 20.5,
+      "fat": 9.5,
+      "serving": "parantha"
+    },
+    "Cauliflower parantha/paratha (Phoolgobhi ka parantha/paratha)": {
+      "cal": 178,
+      "protein": 3.7,
+      "carbs": 18.8,
+      "fat": 9.5,
+      "serving": "parantha"
+    },
+    "Dal parantha/paratha": {
+      "cal": 268,
+      "protein": 6.8,
+      "carbs": 30,
+      "fat": 13.1,
+      "serving": "parantha"
+    },
+    "Sprouted moong parantha/paratha": {
+      "cal": 229,
+      "protein": 4.3,
+      "carbs": 24.3,
+      "fat": 12.4,
+      "serving": "parantha"
+    },
+    "Pea parantha/paratha (Matar ka parantha/paratha)": {
+      "cal": 191,
+      "protein": 5.6,
+      "carbs": 21.5,
+      "fat": 8.8,
+      "serving": "parantha"
+    },
+    "Keema parantha/paratha": {
+      "cal": 238,
+      "protein": 9.4,
+      "carbs": 18.4,
+      "fat": 13.9,
+      "serving": "parantha"
+    },
+    "Paneer parantha/paratha": {
+      "cal": 263,
+      "protein": 8,
+      "carbs": 24.3,
+      "fat": 14.6,
+      "serving": "parantha"
+    },
+    "Besan and spinach parantha/paratha (Besan aur palak ka parantha/paratha)": {
+      "cal": 216,
+      "protein": 5.5,
+      "carbs": 21.4,
+      "fat": 12.1,
+      "serving": "parantha"
+    },
+    "Tandoori parantha/paratha": {
+      "cal": 295,
+      "protein": 5.1,
+      "carbs": 30.7,
+      "fat": 16.5,
+      "serving": "parantha"
+    },
+    "Onion-green chilli parantha/paratha (Pyaaz aur hari mirch ka parantha/paratha)": {
+      "cal": 191,
+      "protein": 4.4,
+      "carbs": 26.4,
+      "fat": 7.3,
+      "serving": "parantha"
+    },
+    "Methi parantha/paratha": {
+      "cal": 148,
+      "protein": 4.3,
+      "carbs": 22.2,
+      "fat": 4.3,
+      "serving": "parantha"
+    },
+    "Naan": {
+      "cal": 286,
+      "protein": 8.1,
+      "carbs": 51.8,
+      "fat": 5,
+      "serving": "naan"
+    },
+    "Cracked wheat porridge (Meetha daliya)": {
+      "cal": 82,
+      "protein": 2.6,
+      "carbs": 8.9,
+      "fat": 4.1,
+      "serving": "bowl"
+    },
+    "Semolina porridge (Suji/Rava daliya)": {
+      "cal": 101,
+      "protein": 3.8,
+      "carbs": 12.4,
+      "fat": 4.1,
+      "serving": "bowl"
+    },
+    "Dal stuffed poori": {
+      "cal": 785,
+      "protein": 2.1,
+      "carbs": 10.1,
+      "fat": 81.7,
+      "serving": "poori"
+    },
+    "Washed moong dal (Dhuli moong ki dal)": {
+      "cal": 50,
+      "protein": 2.7,
+      "carbs": 5.9,
+      "fat": 1.7,
+      "serving": "bowl"
+    },
+    "Washed urad dal (Dhuli urad ki dal)": {
+      "cal": 61,
+      "protein": 2.5,
+      "carbs": 5.8,
+      "fat": 3,
+      "serving": "bowl"
+    },
+    "Split bengal gram with bottle gourd (Channa dal with ghiya/lauki)": {
+      "cal": 73,
+      "protein": 2.8,
+      "carbs": 7.1,
+      "fat": 3.6,
+      "serving": "bowl"
+    },
+    "Mixed dal": {
+      "cal": 62,
+      "protein": 2.5,
+      "carbs": 5.8,
+      "fat": 3.1,
+      "serving": "bowl"
+    },
+    "Whole moong (Moong ki dal)": {
+      "cal": 54,
+      "protein": 2.2,
+      "carbs": 5.2,
+      "fat": 2.6,
+      "serving": "bowl"
+    },
+    "Whole masoor (Masoor ki dal)": {
+      "cal": 54,
+      "protein": 2.3,
+      "carbs": 5.4,
+      "fat": 2.5,
+      "serving": "bowl"
+    },
+    "Whole moth (Moth ki dal)": {
+      "cal": 55,
+      "protein": 2,
+      "carbs": 5.7,
+      "fat": 2.6,
+      "serving": "bowl"
+    },
+    "Whole urad (Urad ki dal)": {
+      "cal": 54,
+      "protein": 2.2,
+      "carbs": 5,
+      "fat": 2.6,
+      "serving": "bowl"
+    },
+    "Moti mahal dal (Urad rajmah mix dal)": {
+      "cal": 103,
+      "protein": 3.9,
+      "carbs": 8.7,
+      "fat": 5.7,
+      "serving": "bowl"
+    },
+    "Sprouted moong dal chat": {
+      "cal": 32,
+      "protein": 1.3,
+      "carbs": 6,
+      "fat": 0.3,
+      "serving": "plate"
+    },
+    "Moong dal kheer": {
+      "cal": 77,
+      "protein": 3,
+      "carbs": 9.9,
+      "fat": 3,
+      "serving": "bowl"
+    },
+    "Moong dal halwa": {
+      "cal": 350,
+      "protein": 8.4,
+      "carbs": 40.2,
+      "fat": 17.7,
+      "serving": "bowl"
+    },
+    "Spinach chickpeas cutlet (Palak channa dal cutlet)": {
+      "cal": 688,
+      "protein": 1.4,
+      "carbs": 4.9,
+      "fat": 73.6,
+      "serving": "cutlet"
+    },
+    "Rice moong dal cheela (Chawal aur moong dal ka cheela)": {
+      "cal": 798,
+      "protein": 2.7,
+      "carbs": 11.1,
+      "fat": 82.4,
+      "serving": "cheela"
+    },
+    "Split bengal gram sweet rice (Channa dal sweet rice)": {
+      "cal": 190,
+      "protein": 4.2,
+      "carbs": 41.1,
+      "fat": 0.6,
+      "serving": "plate"
+    },
+    "Wheat flour and moong dal burfi (Atta aur moong dal ki burfi)": {
+      "cal": 441,
+      "protein": 9.8,
+      "carbs": 60,
+      "fat": 18.4,
+      "serving": "piece"
+    },
+    "Sprouted moong daliya ": {
+      "cal": 112,
+      "protein": 2.8,
+      "carbs": 14.8,
+      "fat": 4.7,
+      "serving": "plate"
+    },
+    "Moong dal stuffed cheela/chilla (Moong dal ka cheela/chilla)": {
+      "cal": 155,
+      "protein": 7,
+      "carbs": 19.4,
+      "fat": 5.1,
+      "serving": "cheela"
+    },
+    "Split bengal gram dal and vegetable pulao (Channa dal and vegetable pulao)": {
+      "cal": 117,
+      "protein": 3.6,
+      "carbs": 19.7,
+      "fat": 2.3,
+      "serving": "plate"
+    },
+    "Sour lentils (Khatti dal)": {
+      "cal": 35,
+      "protein": 2.2,
+      "carbs": 6,
+      "fat": 0.1,
+      "serving": "curry bowl"
+    },
+    "Arhar with spinach (Arhar dal aur palak)": {
+      "cal": 53,
+      "protein": 2.1,
+      "carbs": 4.8,
+      "fat": 2.8,
+      "serving": "curry bowl"
+    },
+    "Moong dal with vadi": {
+      "cal": 24,
+      "protein": 0.4,
+      "carbs": 1,
+      "fat": 2,
+      "serving": "curry bowl"
+    },
+    "Green gram whole with baghar (Sabut moong dal with tadka)": {
+      "cal": 63,
+      "protein": 3.2,
+      "carbs": 6.8,
+      "fat": 2.5,
+      "serving": "bowl"
+    },
+    "Plain urad dal vada (Uzunne vada/Minapa garelu/Ulundu vadai/Medu vada)": {
+      "cal": 745,
+      "protein": 4.4,
+      "carbs": 9.7,
+      "fat": 76.3,
+      "serving": "vada"
+    },
+    "Masala urad dal vada": {
+      "cal": 704,
+      "protein": 4.3,
+      "carbs": 9.9,
+      "fat": 71.6,
+      "serving": "vada"
+    },
+    "Rice dal porridge (Chawal dal ki khichdi/khichri)": {
+      "cal": 383,
+      "protein": 10.8,
+      "carbs": 65,
+      "fat": 8.3,
+      "serving": "100g"
+    },
+    "Lentils and semolina porridge (Dal suji porridge/daliya)": {
+      "cal": 117,
+      "protein": 3.3,
+      "carbs": 23.2,
+      "fat": 1.1,
+      "serving": "100g"
+    },
+    "Lentils and wheat porridge (Dal wheat porridge/daliya )": {
+      "cal": 53,
+      "protein": 2.7,
+      "carbs": 8.4,
+      "fat": 0.9,
+      "serving": "100g"
+    },
+    "Split bengal gram burfi/fudge (Channa dal burfi)": {
+      "cal": 287,
+      "protein": 4.6,
+      "carbs": 54.6,
+      "fat": 7.1,
+      "serving": "piece"
+    },
+    "Fermented bengal gram vada (Khameerikrit/Ufna hua channa dal ka vada)": {
+      "cal": 658,
+      "protein": 4.1,
+      "carbs": 8.7,
+      "fat": 67.2,
+      "serving": "vada"
+    },
+    "Atta dal burfi ": {
+      "cal": 299,
+      "protein": 6.7,
+      "carbs": 40.6,
+      "fat": 12.5,
+      "serving": "piece"
+    },
+    "Namkeen daliya": {
+      "cal": 295,
+      "protein": 8.3,
+      "carbs": 49.3,
+      "fat": 8,
+      "serving": "plate"
+    },
+    "Dal makhani": {
+      "cal": 74,
+      "protein": 3.3,
+      "carbs": 8,
+      "fat": 3.1,
+      "serving": "bowl"
+    },
+    "Dalma": {
+      "cal": 119,
+      "protein": 4.9,
+      "carbs": 15,
+      "fat": 4.6,
+      "serving": "bowl"
+    },
+    "Split bengal gram dal (Channa dal)": {
+      "cal": 100,
+      "protein": 4.2,
+      "carbs": 10,
+      "fat": 4.6,
+      "serving": "bowl"
+    },
+    "Horsegram dal (Kulthi dal) ": {
+      "cal": 56,
+      "protein": 2.9,
+      "carbs": 8.2,
+      "fat": 1.1,
+      "serving": "bowl"
+    },
+    "Panchmel dal": {
+      "cal": 111,
+      "protein": 4.6,
+      "carbs": 10.7,
+      "fat": 5.4,
+      "serving": "bowl"
+    },
+    "Dal dhokli": {
+      "cal": 69,
+      "protein": 3,
+      "carbs": 8.5,
+      "fat": 2.5,
+      "serving": "bowl"
+    },
+    "Maa chaane ki dal": {
+      "cal": 345,
+      "protein": 19.8,
+      "carbs": 43.1,
+      "fat": 9.5,
+      "serving": "bowl"
+    },
+    "Cracked wheat and green gram dal premix (Dalia moong dal premix)": {
+      "cal": 362,
+      "protein": 15.9,
+      "carbs": 64.7,
+      "fat": 5.1,
+      "serving": "100g"
+    },
+    "Sweet wheat porridge (Sweet dalia)": {
+      "cal": 141,
+      "protein": 5.1,
+      "carbs": 23.8,
+      "fat": 2.8,
+      "serving": "100g"
+    },
+    "Moong dal mixture": {
+      "cal": 159,
+      "protein": 4.6,
+      "carbs": 33.9,
+      "fat": 1,
+      "serving": "100g"
+    },
+    "Cracked wheat khichri/khichdi (Dalia khichri/khichdi)": {
+      "cal": 167,
+      "protein": 7.6,
+      "carbs": 22.3,
+      "fat": 5.5,
+      "serving": "100g"
+    },
+    "Dal moong": {
+      "cal": 44,
+      "protein": 2.2,
+      "carbs": 4.9,
+      "fat": 1.6,
+      "serving": "100g"
+    },
+    "Kidney bean curry (Rajmah curry)": {
+      "cal": 144,
+      "protein": 6,
+      "carbs": 16.4,
+      "fat": 5.8,
+      "serving": "bowl"
+    },
+    "Paneer pea sandwich (toasted) (Paneer matar ka sandwich)": {
+      "cal": 250,
+      "protein": 12.4,
+      "carbs": 24.1,
+      "fat": 12,
+      "serving": "toasted triangle"
+    },
+    "Paneer pulao": {
+      "cal": 582,
+      "protein": 2,
+      "carbs": 8.8,
+      "fat": 59.8,
+      "serving": "plate"
+    },
+    "Paneer kaathi roll": {
+      "cal": 286,
+      "protein": 6.9,
+      "carbs": 20.1,
+      "fat": 19.6,
+      "serving": "kaathi roll"
+    },
+    "Pea paneer curry (Matar paneer)": {
+      "cal": 135,
+      "protein": 6.6,
+      "carbs": 9.3,
+      "fat": 7.8,
+      "serving": "bowl"
+    },
+    "Paneer curry": {
+      "cal": 177,
+      "protein": 7.8,
+      "carbs": 8.4,
+      "fat": 12.4,
+      "serving": "bowl"
+    },
+    "Paneer kofta curry": {
+      "cal": 671,
+      "protein": 2.4,
+      "carbs": 3.3,
+      "fat": 72.1,
+      "serving": "bowl"
+    },
+    "Spinach paneer kofta curry (Palak paneer kofta curry)": {
+      "cal": 606,
+      "protein": 1.4,
+      "carbs": 2.9,
+      "fat": 65.4,
+      "serving": "bowl"
+    },
+    "Spinach paneer (Palak paneer)": {
+      "cal": 78,
+      "protein": 4,
+      "carbs": 4.4,
+      "fat": 4.8,
+      "serving": "bowl"
+    },
+    "Shahi paneer": {
+      "cal": 156,
+      "protein": 5.1,
+      "carbs": 6.6,
+      "fat": 12.3,
+      "serving": "bowl"
+    },
+    "Paneer in butter sauce": {
+      "cal": 146,
+      "protein": 7,
+      "carbs": 9.7,
+      "fat": 8.8,
+      "serving": "bowl"
+    },
+    "Methi malai paneer": {
+      "cal": 195,
+      "protein": 7.3,
+      "carbs": 8.2,
+      "fat": 14.8,
+      "serving": "bowl"
+    },
+    "Chilli paneer": {
+      "cal": 778,
+      "protein": 2.1,
+      "carbs": 3.3,
+      "fat": 84,
+      "serving": "bowl"
+    },
+    "Paneer makhana korma": {
+      "cal": 776,
+      "protein": 3.2,
+      "carbs": 4.6,
+      "fat": 82.8,
+      "serving": "bowl"
+    },
+    "Kadhai Paneer": {
+      "cal": 108,
+      "protein": 4.3,
+      "carbs": 7.3,
+      "fat": 6.8,
+      "serving": "bowl"
+    },
+    "Paneer, apple and pineapple salad": {
+      "cal": 95,
+      "protein": 3.9,
+      "carbs": 8.3,
+      "fat": 5.1,
+      "serving": "bowl"
+    },
+    "Paneer kheer": {
+      "cal": 105,
+      "protein": 4.5,
+      "carbs": 10,
+      "fat": 5.4,
+      "serving": "bowl"
+    },
+    "Paneer pakora/pakoda": {
+      "cal": 718,
+      "protein": 3.3,
+      "carbs": 5.5,
+      "fat": 76.1,
+      "serving": "plate"
+    },
+    "Paneer and pea samosa (Paneer matar ka samosa)": {
+      "cal": 624,
+      "protein": 4,
+      "carbs": 8.5,
+      "fat": 63.6,
+      "serving": "samosa"
+    },
+    "Paneer potato cutlet (Paneer aloo cutlet)": {
+      "cal": 673,
+      "protein": 2.5,
+      "carbs": 5.2,
+      "fat": 71.4,
+      "serving": "cutlet"
+    },
+    "Paneer shaslik/tikka": {
+      "cal": 94,
+      "protein": 5.1,
+      "carbs": 8,
+      "fat": 4.5,
+      "serving": "plate"
+    },
+    "Paneer stuffed cheela/chilla": {
+      "cal": 205,
+      "protein": 11.4,
+      "carbs": 19.2,
+      "fat": 8.9,
+      "serving": "cheela"
+    },
+    "Veg paneer stew": {
+      "cal": 146,
+      "protein": 7,
+      "carbs": 10.2,
+      "fat": 8.4,
+      "serving": "bowl"
+    },
+    "Masala dosa paneer fillings": {
+      "cal": 243,
+      "protein": 10.3,
+      "carbs": 29.8,
+      "fat": 8.8,
+      "serving": "dosa"
+    },
+    "Spaghetti with paneer balls and tomato sauce": {
+      "cal": 159,
+      "protein": 4,
+      "carbs": 12.7,
+      "fat": 10.4,
+      "serving": "shallow dish"
+    },
+    "Paneer cutlet": {
+      "cal": 672,
+      "protein": 4.6,
+      "carbs": 7.6,
+      "fat": 69.4,
+      "serving": "cutlet"
+    },
+    "Paneer patties": {
+      "cal": 339,
+      "protein": 7.6,
+      "carbs": 22.8,
+      "fat": 24,
+      "serving": "patty"
+    },
+    "Paneer lababdar": {
+      "cal": 105,
+      "protein": 4,
+      "carbs": 3.4,
+      "fat": 8.5,
+      "serving": "bowl"
+    },
+    "Spinach and paneer souffle ": {
+      "cal": 186,
+      "protein": 7.6,
+      "carbs": 9.6,
+      "fat": 13.5,
+      "serving": "souffle dish"
+    },
+    "Paneer soup": {
+      "cal": 48,
+      "protein": 3.2,
+      "carbs": 2.4,
+      "fat": 2.8,
+      "serving": "bowl"
+    }
+  },
+  "Rice Dishes": {
+    "Rice flakes (Chiwda/Aval)": {
+      "cal": 112,
+      "protein": 3.6,
+      "carbs": 15.6,
+      "fat": 4,
+      "serving": "bowl"
+    },
+    "Murmura (Puffed rice)": {
+      "cal": 113,
+      "protein": 3.6,
+      "carbs": 15.7,
+      "fat": 4,
+      "serving": "bowl"
+    },
+    "Boiled rice (Uble chawal)": {
+      "cal": 117,
+      "protein": 2.6,
+      "carbs": 25.7,
+      "fat": 0.2,
+      "serving": "plate"
+    },
+    "Lemon rice (Pulihora, Elumichai sadam, Chitranna)": {
+      "cal": 176,
+      "protein": 4.3,
+      "carbs": 21.6,
+      "fat": 7.9,
+      "serving": "plate"
+    },
+    "Sweet rice (Meethe chawal)": {
+      "cal": 215,
+      "protein": 2.1,
+      "carbs": 42.6,
+      "fat": 4.6,
+      "serving": "plate"
+    },
+    "Curd rice (Dahi bhaat/Dahi chawal/ Perugu annam/Daddojanam/Thayir saadam)": {
+      "cal": 196,
+      "protein": 5.8,
+      "carbs": 32.9,
+      "fat": 4.3,
+      "serving": "plate"
+    },
+    "Tamarind rice (Chintapandu pulihora/Puliyodharai/Puli sadam/Huli anna)": {
+      "cal": 373,
+      "protein": 7.5,
+      "carbs": 65.1,
+      "fat": 8.5,
+      "serving": "plate"
+    },
+    "Spanish rice": {
+      "cal": 164,
+      "protein": 4.2,
+      "carbs": 31.1,
+      "fat": 2.2,
+      "serving": "plate"
+    },
+    "Chinese fried rice": {
+      "cal": 121,
+      "protein": 4.1,
+      "carbs": 13.4,
+      "fat": 5.4,
+      "serving": "plate"
+    },
+    "Rice kheer (Chawal ki kheer)": {
+      "cal": 75,
+      "protein": 2.3,
+      "carbs": 10,
+      "fat": 3,
+      "serving": "bowl"
+    },
+    "Meringue and rice pudding": {
+      "cal": 113,
+      "protein": 4.8,
+      "carbs": 14.6,
+      "fat": 4.1,
+      "serving": "bowl"
+    },
+    "Flattened rice cutlet (Chirwa cutlet/Chivda cutlet/Poha cutlet)": {
+      "cal": 702,
+      "protein": 1.8,
+      "carbs": 7.4,
+      "fat": 73.9,
+      "serving": "cutlet"
+    },
+    "Rice moong dal cheela (Chawal aur moong dal ka cheela)": {
+      "cal": 798,
+      "protein": 2.7,
+      "carbs": 11.1,
+      "fat": 82.4,
+      "serving": "cheela"
+    },
+    "Split bengal gram sweet rice (Channa dal sweet rice)": {
+      "cal": 190,
+      "protein": 4.2,
+      "carbs": 41.1,
+      "fat": 0.6,
+      "serving": "plate"
+    },
+    "Rice upma": {
+      "cal": 151,
+      "protein": 2.6,
+      "carbs": 18,
+      "fat": 7.5,
+      "serving": "bowl"
+    },
+    "Eggplant/Brinjal rice (Vangi bhat)": {
+      "cal": 185,
+      "protein": 5.3,
+      "carbs": 31.7,
+      "fat": 3.7,
+      "serving": "plate"
+    },
+    "Mexican rice": {
+      "cal": 121,
+      "protein": 4.6,
+      "carbs": 14.2,
+      "fat": 4.9,
+      "serving": "plate"
+    },
+    "Cereal pulse mix with amylase rice flour": {
+      "cal": 152,
+      "protein": 4.3,
+      "carbs": 27.8,
+      "fat": 2.7,
+      "serving": "100g"
+    },
+    "Rice dal porridge (Chawal dal ki khichdi/khichri)": {
+      "cal": 383,
+      "protein": 10.8,
+      "carbs": 65,
+      "fat": 8.3,
+      "serving": "100g"
+    },
+    "Black rice kheer (Chak-hao kheer)": {
+      "cal": 148,
+      "protein": 4.4,
+      "carbs": 22.9,
+      "fat": 4.9,
+      "serving": "bowl"
+    },
+    "Rice puttu (Ari puttu)": {
+      "cal": 82,
+      "protein": 1.3,
+      "carbs": 11.8,
+      "fat": 3.1,
+      "serving": "puttu"
+    },
+    "Rice murukku": {
+      "cal": 594,
+      "protein": 5.4,
+      "carbs": 33.3,
+      "fat": 48.2,
+      "serving": "piece"
+    },
+    "Rice flakes and roasted channa ": {
+      "cal": 333,
+      "protein": 10.6,
+      "carbs": 71.9,
+      "fat": 2.9,
+      "serving": "100g"
+    },
+    "Mutton biryani/biriyani": {
+      "cal": 191,
+      "protein": 7.4,
+      "carbs": 22.5,
+      "fat": 7.7,
+      "serving": "plate"
+    },
+    "Vegetable biryani/biriyani": {
+      "cal": 175,
+      "protein": 3.2,
+      "carbs": 18.6,
+      "fat": 9.5,
+      "serving": "plate"
+    },
+    "Plain pulao": {
+      "cal": 140,
+      "protein": 2.3,
+      "carbs": 21.8,
+      "fat": 4.6,
+      "serving": "plate"
+    },
+    "Mixed vegetable pulao": {
+      "cal": 113,
+      "protein": 2.7,
+      "carbs": 17.5,
+      "fat": 3.3,
+      "serving": "plate"
+    },
+    "Mushroom pulao": {
+      "cal": 124,
+      "protein": 2.5,
+      "carbs": 19,
+      "fat": 4,
+      "serving": "plate"
+    },
+    "Sprouted moong pulao": {
+      "cal": 113,
+      "protein": 2.2,
+      "carbs": 17.5,
+      "fat": 3.6,
+      "serving": "plate"
+    },
+    "Paneer pulao": {
+      "cal": 582,
+      "protein": 2,
+      "carbs": 8.8,
+      "fat": 59.8,
+      "serving": "plate"
+    },
+    "Peanut pulao ": {
+      "cal": 193,
+      "protein": 5.3,
+      "carbs": 21.2,
+      "fat": 9.5,
+      "serving": "plate"
+    },
+    "Navratan pulao": {
+      "cal": 262,
+      "protein": 6.2,
+      "carbs": 37,
+      "fat": 9.5,
+      "serving": "plate"
+    },
+    "Green chickpeas pulao (Choliya pulao/Hare chane ka pulao)": {
+      "cal": 173,
+      "protein": 4.9,
+      "carbs": 27.6,
+      "fat": 4.8,
+      "serving": "plate"
+    },
+    "Cumin pulao (Jeera/Zeera pulao)": {
+      "cal": 135,
+      "protein": 2.5,
+      "carbs": 23.6,
+      "fat": 3.2,
+      "serving": "plate"
+    },
+    "Peas pulao (Matar pulao)": {
+      "cal": 109,
+      "protein": 3.9,
+      "carbs": 18.4,
+      "fat": 1.9,
+      "serving": "plate"
+    },
+    "Split bengal gram dal and vegetable pulao (Channa dal and vegetable pulao)": {
+      "cal": 117,
+      "protein": 3.6,
+      "carbs": 19.7,
+      "fat": 2.3,
+      "serving": "plate"
+    },
+    "Black channa pulao/ Bengal gram pulao (Kale chane ka pulao)": {
+      "cal": 126,
+      "protein": 3.4,
+      "carbs": 21.6,
+      "fat": 2.6,
+      "serving": "plate"
+    },
+    "Mutton pulao": {
+      "cal": 131,
+      "protein": 6.5,
+      "carbs": 11.3,
+      "fat": 10.8,
+      "serving": "plate"
+    },
+    "Chicken pulao": {
+      "cal": 108,
+      "protein": 6.1,
+      "carbs": 11.2,
+      "fat": 8.5,
+      "serving": "plate"
+    },
+    "Plain khitchdi (Plain khichri/khichdi)": {
+      "cal": 57,
+      "protein": 1.7,
+      "carbs": 10,
+      "fat": 1,
+      "serving": "small bowl"
+    },
+    "Spinach khichri (Palak khichri/khichdi)": {
+      "cal": 102,
+      "protein": 3.4,
+      "carbs": 17.4,
+      "fat": 1.9,
+      "serving": "100g"
+    },
+    "Poshtik khichdi/khichri": {
+      "cal": 93,
+      "protein": 3,
+      "carbs": 15.6,
+      "fat": 1.9,
+      "serving": "plate"
+    },
+    "Quinoa khichdi/khichri": {
+      "cal": 64,
+      "protein": 3.2,
+      "carbs": 8.8,
+      "fat": 1.6,
+      "serving": "bowl"
+    },
+    "Vegetable khichdi/khichri": {
+      "cal": 143,
+      "protein": 5.6,
+      "carbs": 19.6,
+      "fat": 4.5,
+      "serving": "100g"
+    },
+    "Cracked wheat khichri/khichdi (Dalia khichri/khichdi)": {
+      "cal": 167,
+      "protein": 7.6,
+      "carbs": 22.3,
+      "fat": 5.5,
+      "serving": "100g"
+    }
+  },
+  "Non-Veg": {
+    "Chicken sandwich": {
+      "cal": 253,
+      "protein": 13.1,
+      "carbs": 25.4,
+      "fat": 11.7,
+      "serving": "triangle"
+    },
+    "Chicken sandwich (toasted)": {
+      "cal": 167,
+      "protein": 12.1,
+      "carbs": 18.8,
+      "fat": 5.3,
+      "serving": "toasted triangle"
+    },
+    "Chicken stock": {
+      "cal": 30,
+      "protein": 3.7,
+      "carbs": 0.4,
+      "fat": 1.5,
+      "serving": "cup"
+    },
+    "Chicken consomme (Clear chicken soup)": {
+      "cal": 48,
+      "protein": 11.5,
+      "carbs": 1.2,
+      "fat": 12,
+      "serving": "soup bowl"
+    },
+    "Chicken sweet corn soup": {
+      "cal": 28,
+      "protein": 14.5,
+      "carbs": 1.6,
+      "fat": 12.6,
+      "serving": "soup bowl"
+    },
+    "Chicken chowmein": {
+      "cal": 151,
+      "protein": 6.3,
+      "carbs": 13.3,
+      "fat": 8.2,
+      "serving": "plate"
+    },
+    "Chicken lasagne": {
+      "cal": 187,
+      "protein": 10.5,
+      "carbs": 13.9,
+      "fat": 10.4,
+      "serving": "plate"
+    },
+    "Chicken yakhni": {
+      "cal": 99,
+      "protein": 10.7,
+      "carbs": 0.8,
+      "fat": 6.1,
+      "serving": "bowl"
+    },
+    "Chicken curry": {
+      "cal": 129,
+      "protein": 11.8,
+      "carbs": 3.4,
+      "fat": 7.6,
+      "serving": "bowl"
+    },
+    "Tandoori chicken": {
+      "cal": 145,
+      "protein": 16.3,
+      "carbs": 2.3,
+      "fat": 7.9,
+      "serving": "chicken"
+    },
+    "Butter chicken": {
+      "cal": 137,
+      "protein": 10.9,
+      "carbs": 3.7,
+      "fat": 8.7,
+      "serving": "large piece"
+    },
+    "Chicken kebab": {
+      "cal": 729,
+      "protein": 3.7,
+      "carbs": 1.1,
+      "fat": 78.9,
+      "serving": "kabab"
+    },
+    "Chilli chicken": {
+      "cal": 199,
+      "protein": 9.6,
+      "carbs": 2.9,
+      "fat": 16.6,
+      "serving": "bowl"
+    },
+    "Fried chicken with tomato sauce (Fried chicken tamatar ki chutney kay saath)": {
+      "cal": 125,
+      "protein": 11.5,
+      "carbs": 2.5,
+      "fat": 7.6,
+      "serving": "piece"
+    },
+    "Chicken stew": {
+      "cal": 128,
+      "protein": 7.2,
+      "carbs": 4.4,
+      "fat": 8.9,
+      "serving": "bowl"
+    },
+    "Minced meat pancake (with chicken)": {
+      "cal": 116,
+      "protein": 12,
+      "carbs": 8.2,
+      "fat": 10.5,
+      "serving": "pancake"
+    },
+    "Chicken pulao": {
+      "cal": 108,
+      "protein": 6.1,
+      "carbs": 11.2,
+      "fat": 8.5,
+      "serving": "plate"
+    },
+    "Roast chicken": {
+      "cal": 200,
+      "protein": 20.5,
+      "carbs": 0.1,
+      "fat": 13.1,
+      "serving": "joint"
+    },
+    "Shahi chicken masala": {
+      "cal": 164,
+      "protein": 9.8,
+      "carbs": 4.1,
+      "fat": 12,
+      "serving": "bowl"
+    },
+    "Tomato chicken": {
+      "cal": 112,
+      "protein": 10.6,
+      "carbs": 2.1,
+      "fat": 6.7,
+      "serving": "bowl"
+    },
+    "Creamy chicken": {
+      "cal": 153,
+      "protein": 13.5,
+      "carbs": 3.1,
+      "fat": 9.6,
+      "serving": "bowl"
+    },
+    "Broccoli chicken ala king": {
+      "cal": 120,
+      "protein": 8,
+      "carbs": 5.3,
+      "fat": 7.6,
+      "serving": "bowl"
+    },
+    "Ginger chicken": {
+      "cal": 129,
+      "protein": 8.2,
+      "carbs": 5.6,
+      "fat": 8.2,
+      "serving": "bowl"
+    },
+    "Chicken sweet and sour": {
+      "cal": 445,
+      "protein": 6.9,
+      "carbs": 2.7,
+      "fat": 47.6,
+      "serving": "bowl"
+    },
+    "Chicken korma": {
+      "cal": 148,
+      "protein": 9.8,
+      "carbs": 5.4,
+      "fat": 9.7,
+      "serving": "bowl"
+    },
+    "Chicken and tomato towers": {
+      "cal": 101,
+      "protein": 6.9,
+      "carbs": 2.4,
+      "fat": 7,
+      "serving": "stuffed tomato"
+    },
+    "Chicken pakora/pakoda": {
+      "cal": 590,
+      "protein": 6,
+      "carbs": 4.6,
+      "fat": 61,
+      "serving": "pakora"
+    },
+    "Chicken walnut sandwich (Chicken aur akhrot ke sandwich)": {
+      "cal": 286,
+      "protein": 12.6,
+      "carbs": 22.6,
+      "fat": 16.8,
+      "serving": "sandwich"
+    },
+    "Chicken and corn open sandwich": {
+      "cal": 188,
+      "protein": 8.6,
+      "carbs": 19.2,
+      "fat": 8.8,
+      "serving": "sandwich"
+    },
+    "Afghani chicken": {
+      "cal": 152,
+      "protein": 15.7,
+      "carbs": 1.9,
+      "fat": 9.1,
+      "serving": "plate"
+    },
+    "Chicken manchurian": {
+      "cal": 142,
+      "protein": 9.5,
+      "carbs": 6.1,
+      "fat": 12,
+      "serving": "plate"
+    },
+    "Handi chicken": {
+      "cal": 166,
+      "protein": 12.3,
+      "carbs": 1.5,
+      "fat": 12.5,
+      "serving": "plate"
+    },
+    "Lemon chicken": {
+      "cal": 170,
+      "protein": 20.2,
+      "carbs": 0.6,
+      "fat": 9.7,
+      "serving": "plate"
+    },
+    "Cajun chicken": {
+      "cal": 185,
+      "protein": 12.7,
+      "carbs": 1.9,
+      "fat": 14,
+      "serving": "chicken breast"
+    },
+    "Chicken salad": {
+      "cal": 338,
+      "protein": 15.3,
+      "carbs": 1.3,
+      "fat": 30.3,
+      "serving": "bowl"
+    },
+    "Chicken and cheese souffle": {
+      "cal": 182,
+      "protein": 9.1,
+      "carbs": 3.5,
+      "fat": 14.7,
+      "serving": "souffle dish"
+    },
+    "Mutton biryani/biriyani": {
+      "cal": 191,
+      "protein": 7.4,
+      "carbs": 22.5,
+      "fat": 7.7,
+      "serving": "plate"
+    },
+    "Spinach mutton (Palak mutton)": {
+      "cal": 80,
+      "protein": 5.7,
+      "carbs": 3.4,
+      "fat": 4.7,
+      "serving": "bowl"
+    },
+    "Kashmiri mutton koftas (Gushtaba)": {
+      "cal": 97,
+      "protein": 6.3,
+      "carbs": 3,
+      "fat": 6.8,
+      "serving": "gushtaba"
+    },
+    "Mutton yakhni": {
+      "cal": 104,
+      "protein": 8.3,
+      "carbs": 0.8,
+      "fat": 7.7,
+      "serving": "bowl"
+    },
+    "Mutton do piaza": {
+      "cal": 183,
+      "protein": 9.4,
+      "carbs": 4.1,
+      "fat": 14.4,
+      "serving": "bowl"
+    },
+    "Mutton chops": {
+      "cal": 664,
+      "protein": 4,
+      "carbs": 1.5,
+      "fat": 71.3,
+      "serving": "chop"
+    },
+    "Meat consomme (with mutton)": {
+      "cal": 30,
+      "protein": 14.9,
+      "carbs": 0.5,
+      "fat": 13.7,
+      "serving": "bowl"
+    },
+    "Mutton pulao": {
+      "cal": 131,
+      "protein": 6.5,
+      "carbs": 11.3,
+      "fat": 10.8,
+      "serving": "plate"
+    },
+    "Mutton korma": {
+      "cal": 116,
+      "protein": 7.1,
+      "carbs": 2.5,
+      "fat": 8.5,
+      "serving": "bowl"
+    },
+    "Mutton seekh kebab": {
+      "cal": 134,
+      "protein": 11.3,
+      "carbs": 3.1,
+      "fat": 8.4,
+      "serving": "kebab"
+    },
+    "Fish curry (Machli curry)": {
+      "cal": 111,
+      "protein": 8.8,
+      "carbs": 3.8,
+      "fat": 6.7,
+      "serving": "bowl"
+    },
+    "Fried fish (Indian style) (Tali hui machli)": {
+      "cal": 659,
+      "protein": 4.3,
+      "carbs": 5.4,
+      "fat": 68.9,
+      "serving": "piece"
+    },
+    "Fried fish and Chips (English Style) (Tali hui machli aur chips)": {
+      "cal": 652,
+      "protein": 3.4,
+      "carbs": 2.8,
+      "fat": 69.7,
+      "serving": "fillet"
+    },
+    "Tomato fish": {
+      "cal": 490,
+      "protein": 2.4,
+      "carbs": 3.2,
+      "fat": 51.9,
+      "serving": "bowl"
+    },
+    "Baked fish with cheese sauce": {
+      "cal": 114,
+      "protein": 8.6,
+      "carbs": 4.1,
+      "fat": 7,
+      "serving": "bowl"
+    },
+    "Fish tikka": {
+      "cal": 117,
+      "protein": 16,
+      "carbs": 3.9,
+      "fat": 4.1,
+      "serving": "piece"
+    },
+    "Tandoori fish": {
+      "cal": 96,
+      "protein": 11.2,
+      "carbs": 2.4,
+      "fat": 4.6,
+      "serving": "piece"
+    },
+    "Fish cutlet (Machli ka cutlet)": {
+      "cal": 655,
+      "protein": 2.8,
+      "carbs": 3.1,
+      "fat": 70.1,
+      "serving": "cutlet"
+    },
+    "Hot fish souffle": {
+      "cal": 143,
+      "protein": 11.2,
+      "carbs": 3.7,
+      "fat": 9.2,
+      "serving": "bowl"
+    },
+    "Bengal fish curry (Bengali machli curry)": {
+      "cal": 109,
+      "protein": 7.3,
+      "carbs": 4.4,
+      "fat": 7,
+      "serving": "bowl"
+    },
+    "Fish finger": {
+      "cal": 543,
+      "protein": 5.7,
+      "carbs": 4.5,
+      "fat": 55.8,
+      "serving": "fillet"
+    },
+    "Fish in coconut milk (Nariyal ke doodh ke saath machli)": {
+      "cal": 86,
+      "protein": 8.7,
+      "carbs": 2.7,
+      "fat": 4.4,
+      "serving": "dish"
+    },
+    "Baked stuffed fish": {
+      "cal": 122,
+      "protein": 16.1,
+      "carbs": 2.1,
+      "fat": 5.4,
+      "serving": "fish"
+    },
+    "Fish pie": {
+      "cal": 121,
+      "protein": 9.3,
+      "carbs": 7.7,
+      "fat": 5.8,
+      "serving": "pie"
+    },
+    "Crispy baked fish": {
+      "cal": 138,
+      "protein": 11,
+      "carbs": 9.6,
+      "fat": 6.4,
+      "serving": "casserole dish"
+    },
+    "Fish souffle": {
+      "cal": 140,
+      "protein": 10.5,
+      "carbs": 5.1,
+      "fat": 8.5,
+      "serving": "dish"
+    },
+    "Fish pakora/pakoda": {
+      "cal": 577,
+      "protein": 6,
+      "carbs": 4.6,
+      "fat": 59.5,
+      "serving": "pakora"
+    },
+    "Fish sandwich ": {
+      "cal": 150,
+      "protein": 4.7,
+      "carbs": 10.1,
+      "fat": 10.4,
+      "serving": "sandwich"
+    },
+    "Fish orly": {
+      "cal": 564,
+      "protein": 5.9,
+      "carbs": 4.3,
+      "fat": 58.2,
+      "serving": "fillet"
+    },
+    "Hariyali Fish Tikka": {
+      "cal": 150,
+      "protein": 14,
+      "carbs": 2.2,
+      "fat": 9.4,
+      "serving": "kebab"
+    },
+    "Lemon butter fish": {
+      "cal": 160,
+      "protein": 16.4,
+      "carbs": 0.8,
+      "fat": 10.3,
+      "serving": "piece"
+    },
+    "Egg nog": {
+      "cal": 97,
+      "protein": 4.8,
+      "carbs": 8.1,
+      "fat": 5.1,
+      "serving": "tall glass"
+    },
+    "Egg sandwich (Ande ka sandwich)": {
+      "cal": 286,
+      "protein": 8.7,
+      "carbs": 29.2,
+      "fat": 15.8,
+      "serving": "triangle"
+    },
+    "Egg and tomato sandwich (Ande aur tamatar ka sandwich)": {
+      "cal": 222,
+      "protein": 7.7,
+      "carbs": 25.9,
+      "fat": 10.5,
+      "serving": "triangle"
+    },
+    "Boiled egg (Ubla anda)": {
+      "cal": 45,
+      "protein": 4.4,
+      "carbs": 0.1,
+      "fat": 3,
+      "serving": "egg"
+    },
+    "Fried Egg ": {
+      "cal": 224,
+      "protein": 11.6,
+      "carbs": 0.3,
+      "fat": 19.6,
+      "serving": "egg"
+    },
+    "Poached egg": {
+      "cal": 124,
+      "protein": 12,
+      "carbs": 0.4,
+      "fat": 8.2,
+      "serving": "egg"
+    },
+    "Scrambled egg (Ande ki bhurji)": {
+      "cal": 156,
+      "protein": 10.3,
+      "carbs": 1.4,
+      "fat": 12.2,
+      "serving": "egg"
+    },
+    "Baked egg ": {
+      "cal": 219,
+      "protein": 11.9,
+      "carbs": 15.4,
+      "fat": 12.7,
+      "serving": "egg"
+    },
+    "Stuffed egg omelette/omlet": {
+      "cal": 204,
+      "protein": 8.6,
+      "carbs": 2.3,
+      "fat": 17.8,
+      "serving": "omelette"
+    },
+    "Egg drop soup": {
+      "cal": 27,
+      "protein": 12.9,
+      "carbs": 1.1,
+      "fat": 13.5,
+      "serving": "soup bowl"
+    },
+    "Vegetarian egg kofta curry": {
+      "cal": 627,
+      "protein": 1.3,
+      "carbs": 4.3,
+      "fat": 67.2,
+      "serving": "bowl"
+    },
+    "Scotch egg": {
+      "cal": 677,
+      "protein": 4.1,
+      "carbs": 1.9,
+      "fat": 72.6,
+      "serving": "piece"
+    },
+    "Deviled egg": {
+      "cal": 99,
+      "protein": 5,
+      "carbs": 2.2,
+      "fat": 7.7,
+      "serving": "egg"
+    },
+    "Egg halwa (Ande ka halwa)": {
+      "cal": 300,
+      "protein": 7.9,
+      "carbs": 39.6,
+      "fat": 13.4,
+      "serving": "bowl"
+    },
+    "Egg pakora/pakoda (Ande ke pakode)": {
+      "cal": 711,
+      "protein": 2.8,
+      "carbs": 4.5,
+      "fat": 75.9,
+      "serving": "plate"
+    },
+    "Vegeterian scotch egg": {
+      "cal": 682,
+      "protein": 2.2,
+      "carbs": 4.6,
+      "fat": 72.8,
+      "serving": "piece"
+    },
+    "Eggless cake": {
+      "cal": 318,
+      "protein": 8.1,
+      "carbs": 46.1,
+      "fat": 11.8,
+      "serving": "slice"
+    },
+    "Indian style egg bhujia (Anda bhujia (Indian style))": {
+      "cal": 103,
+      "protein": 6.1,
+      "carbs": 3.8,
+      "fat": 7,
+      "serving": "small bowl"
+    },
+    "Eggplant/Brinjal rice (Vangi bhat)": {
+      "cal": 185,
+      "protein": 5.3,
+      "carbs": 31.7,
+      "fat": 3.7,
+      "serving": "plate"
+    },
+    "Home made egg noodles": {
+      "cal": 241,
+      "protein": 6.5,
+      "carbs": 42.9,
+      "fat": 4.4,
+      "serving": "curry bowl"
+    },
+    "Indian lamb and egg curry (Nargisi kofta)": {
+      "cal": 336,
+      "protein": 3.8,
+      "carbs": 2.1,
+      "fat": 34.7,
+      "serving": "kofta"
+    },
+    "Egg curry (Anda curry)": {
+      "cal": 118,
+      "protein": 5.4,
+      "carbs": 4,
+      "fat": 8.8,
+      "serving": "bowl"
+    },
+    "Beetroot and egg salad (Chukandar aur ande ka salad)": {
+      "cal": 85,
+      "protein": 3.4,
+      "carbs": 3.4,
+      "fat": 6.5,
+      "serving": "small bowl"
+    },
+    "Mayonnaise without eggs": {
+      "cal": 329,
+      "protein": 2.1,
+      "carbs": 4,
+      "fat": 33.8,
+      "serving": "cup"
+    },
+    "Vanilla ice cream without egg": {
+      "cal": 229,
+      "protein": 2.7,
+      "carbs": 14.2,
+      "fat": 18.1,
+      "serving": "ice cream cup"
+    },
+    "Vanilla ice cream with egg": {
+      "cal": 215,
+      "protein": 4.2,
+      "carbs": 11.7,
+      "fat": 17,
+      "serving": "ice cream cup"
+    },
+    "Egg cutlet (Anda cutlet)": {
+      "cal": 575,
+      "protein": 2.4,
+      "carbs": 5.8,
+      "fat": 60.2,
+      "serving": "cutlet"
+    },
+    "Chocolate eggless cake": {
+      "cal": 312,
+      "protein": 6.7,
+      "carbs": 43.4,
+      "fat": 13.2,
+      "serving": "piece"
+    },
+    "Orange eggless cake": {
+      "cal": 356,
+      "protein": 7.2,
+      "carbs": 52.6,
+      "fat": 13.8,
+      "serving": "piece"
+    },
+    "Baked eggs in tomato sauce": {
+      "cal": 80,
+      "protein": 4.9,
+      "carbs": 3.8,
+      "fat": 5.2,
+      "serving": "plate"
+    },
+    "Egg in a pepper": {
+      "cal": 129,
+      "protein": 12.6,
+      "carbs": 0.2,
+      "fat": 8.7,
+      "serving": "egg"
+    },
+    "Spinach mushroom scrambled egg (Palak mushroom bhurji)": {
+      "cal": 159,
+      "protein": 13.3,
+      "carbs": 0.6,
+      "fat": 11.5,
+      "serving": "plate"
+    },
+    "Egg sauce": {
+      "cal": 147,
+      "protein": 6,
+      "carbs": 5.9,
+      "fat": 11.1,
+      "serving": "100g"
+    },
+    "Prawn curry (with coconut) (Jhinga curry)": {
+      "cal": 110,
+      "protein": 8.5,
+      "carbs": 3.1,
+      "fat": 6.9,
+      "serving": "bowl"
+    },
+    "Prawn sandwich": {
+      "cal": 170,
+      "protein": 10.4,
+      "carbs": 11.9,
+      "fat": 9.3,
+      "serving": "sandwich"
+    }
+  },
+  "Snacks": {
+    "Potato samosa (Aloo ka samosa)": {
+      "cal": 577,
+      "protein": 1.7,
+      "carbs": 9.2,
+      "fat": 59.2,
+      "serving": "samosa"
+    },
+    "Minced meat samosa (Keema ka samosa)": {
+      "cal": 621,
+      "protein": 4.4,
+      "carbs": 6.1,
+      "fat": 64.3,
+      "serving": "samosa"
+    },
+    "Paneer and pea samosa (Paneer matar ka samosa)": {
+      "cal": 624,
+      "protein": 4,
+      "carbs": 8.5,
+      "fat": 63.6,
+      "serving": "samosa"
+    },
+    "Vegetable samosa": {
+      "cal": 443,
+      "protein": 2.2,
+      "carbs": 13.2,
+      "fat": 42.2,
+      "serving": "samosa"
+    },
+    "Potato pakora/pakoda (Aloo pakoda)": {
+      "cal": 677,
+      "protein": 1.9,
+      "carbs": 6,
+      "fat": 71.8,
+      "serving": "plate"
+    },
+    "Onion pakora/pakoda (Pyaaz ke pakode)": {
+      "cal": 675,
+      "protein": 1.9,
+      "carbs": 5.4,
+      "fat": 71.8,
+      "serving": "plate"
+    },
+    "Cauliflower pakora/pakoda (Phoolgobhi ke pakode)": {
+      "cal": 672,
+      "protein": 2,
+      "carbs": 4.5,
+      "fat": 71.9,
+      "serving": "plate"
+    },
+    "Mixed vegetable pakora/pakoda": {
+      "cal": 674,
+      "protein": 1.9,
+      "carbs": 5.1,
+      "fat": 71.9,
+      "serving": "plate"
+    },
+    "Spinach pakora/pakoda (Palak pakoda)": {
+      "cal": 713,
+      "protein": 2,
+      "carbs": 4.7,
+      "fat": 76.4,
+      "serving": "plate"
+    },
+    "Methi pakora/pakoda (Methi ke pakode)": {
+      "cal": 713,
+      "protein": 2.1,
+      "carbs": 4.7,
+      "fat": 76.4,
+      "serving": "plate"
+    },
+    "Egg pakora/pakoda (Ande ke pakode)": {
+      "cal": 711,
+      "protein": 2.8,
+      "carbs": 4.5,
+      "fat": 75.9,
+      "serving": "plate"
+    },
+    "Bread pakora/pakoda": {
+      "cal": 711,
+      "protein": 2.6,
+      "carbs": 8.9,
+      "fat": 74.2,
+      "serving": "plate"
+    },
+    "Paneer pakora/pakoda": {
+      "cal": 718,
+      "protein": 3.3,
+      "carbs": 5.5,
+      "fat": 76.1,
+      "serving": "plate"
+    },
+    "Masala onion pakora/pakoda (Pyaaz ke pakode)": {
+      "cal": 552,
+      "protein": 2,
+      "carbs": 6.5,
+      "fat": 57.6,
+      "serving": "pakora"
+    },
+    "Masala green chilli pakora/pakoda (Hari mirch kay pakode)": {
+      "cal": 669,
+      "protein": 2.2,
+      "carbs": 5.5,
+      "fat": 71,
+      "serving": "pakora"
+    },
+    "Chicken pakora/pakoda": {
+      "cal": 590,
+      "protein": 6,
+      "carbs": 4.6,
+      "fat": 61,
+      "serving": "pakora"
+    },
+    "Fish pakora/pakoda": {
+      "cal": 577,
+      "protein": 6,
+      "carbs": 4.6,
+      "fat": 59.5,
+      "serving": "pakora"
+    },
+    "Jackfruit fritters (Ponsa mulik/Kathal ka pakora)": {
+      "cal": 598,
+      "protein": 2.3,
+      "carbs": 24,
+      "fat": 54.4,
+      "serving": "mulik/fritter"
+    },
+    "Pav bhaji masala": {
+      "cal": 230,
+      "protein": 9.1,
+      "carbs": 29.1,
+      "fat": 11,
+      "serving": "gm"
+    },
+    "Pav bhaji": {
+      "cal": 97,
+      "protein": 2.7,
+      "carbs": 12,
+      "fat": 4.3,
+      "serving": "100g"
+    },
+    "Khakhra chaat": {
+      "cal": 359,
+      "protein": 4.5,
+      "carbs": 16.6,
+      "fat": 30.6,
+      "serving": "plate"
+    },
+    "Spicy corn chaat ": {
+      "cal": 480,
+      "protein": 4.6,
+      "carbs": 11.4,
+      "fat": 46.6,
+      "serving": "plate"
+    },
+    "Bhel puri ": {
+      "cal": 510,
+      "protein": 3.5,
+      "carbs": 16.5,
+      "fat": 47.9,
+      "serving": "plate"
+    }
+  },
+  "Beverages": {
+    "Hot tea (Garam Chai)": {
+      "cal": 16,
+      "protein": 0.4,
+      "carbs": 2.6,
+      "fat": 0.5,
+      "serving": "tea cup"
+    },
+    "Lemon rice (Pulihora, Elumichai sadam, Chitranna)": {
+      "cal": 176,
+      "protein": 4.3,
+      "carbs": 21.6,
+      "fat": 7.9,
+      "serving": "plate"
+    },
+    "Rasam with lemon (Nimmakaya rasam/Nimmakaya charu/Elumichai rasam/Nimbe hannina saaru)": {
+      "cal": 24,
+      "protein": 1.1,
+      "carbs": 2.8,
+      "fat": 0.9,
+      "serving": "curry bowl"
+    },
+    "Instant coffee": {
+      "cal": 23,
+      "protein": 0.6,
+      "carbs": 3.7,
+      "fat": 0.7,
+      "serving": "tea cup"
+    },
+    "Espreso coffee": {
+      "cal": 52,
+      "protein": 1.7,
+      "carbs": 6.6,
+      "fat": 2.1,
+      "serving": "tea cup"
+    },
+    "Cold coffee with ice cream": {
+      "cal": 68,
+      "protein": 1.6,
+      "carbs": 11.2,
+      "fat": 2.1,
+      "serving": "tall glass"
+    },
+    "Coffee biscuit": {
+      "cal": 417,
+      "protein": 6.9,
+      "carbs": 46.6,
+      "fat": 23,
+      "serving": "biscuit"
+    },
+    "Steeped hot coffee": {
+      "cal": 16,
+      "protein": 0.4,
+      "carbs": 3,
+      "fat": 0.3,
+      "serving": "tea cup"
+    },
+    "Cold coffee (with cream)": {
+      "cal": 83,
+      "protein": 1.9,
+      "carbs": 12,
+      "fat": 3.3,
+      "serving": "tall glass"
+    },
+    "Coffee ice cream": {
+      "cal": 151,
+      "protein": 3.1,
+      "carbs": 14.1,
+      "fat": 9.4,
+      "serving": "ice cream cup"
+    },
+    "Coffee pear alaska": {
+      "cal": 204,
+      "protein": 2.9,
+      "carbs": 19.4,
+      "fat": 13.2,
+      "serving": "dish"
+    },
+    "Coffee drops": {
+      "cal": 443,
+      "protein": 7.6,
+      "carbs": 43.1,
+      "fat": 27.2,
+      "serving": "small"
+    },
+    "Sweet Lassi (Meethi lassi)": {
+      "cal": 36,
+      "protein": 1.3,
+      "carbs": 6.5,
+      "fat": 0.7,
+      "serving": "tall glass"
+    },
+    "Lassi (salted)": {
+      "cal": 19,
+      "protein": 1.4,
+      "carbs": 1.9,
+      "fat": 0.7,
+      "serving": "tall glass"
+    },
+    "Classic club sandwich": {
+      "cal": 201,
+      "protein": 6.7,
+      "carbs": 18.5,
+      "fat": 11.6,
+      "serving": "triangle"
+    },
+    "Classic seasoned black beans": {
+      "cal": 29,
+      "protein": 8,
+      "carbs": 7.7,
+      "fat": 8.3,
+      "serving": "bowl"
+    },
+    "Classic italian pasta": {
+      "cal": 42,
+      "protein": 0.6,
+      "carbs": 4.4,
+      "fat": 2.5,
+      "serving": "100g"
+    },
+    "Buttermilk biscuit": {
+      "cal": 323,
+      "protein": 5.8,
+      "carbs": 34.9,
+      "fat": 17.5,
+      "serving": "biscuit"
+    },
+    "Fruit Punch (with fresh juices)": {
+      "cal": 36,
+      "protein": 0.1,
+      "carbs": 9.4,
+      "fat": 0,
+      "serving": "tall glass"
+    },
+    "Woodapple juice (Bel ka sharbat)": {
+      "cal": 34,
+      "protein": 0.6,
+      "carbs": 6.5,
+      "fat": 0.7,
+      "serving": "glass"
+    },
+    "Banana milkshake (Kele milkshake)": {
+      "cal": 65,
+      "protein": 1.8,
+      "carbs": 9.1,
+      "fat": 2.4,
+      "serving": "tall glass"
+    },
+    "Mango milkshake (Aam milkshake)": {
+      "cal": 57,
+      "protein": 1.7,
+      "carbs": 7.2,
+      "fat": 2.3,
+      "serving": "tall glass"
+    },
+    "Pineapple milkshake (Ananas milkshake)": {
+      "cal": 56,
+      "protein": 1.7,
+      "carbs": 7.6,
+      "fat": 2.2,
+      "serving": "tall glass"
+    },
+    "Orange milkshake (Narangi milkshake)": {
+      "cal": 57,
+      "protein": 1.9,
+      "carbs": 7.1,
+      "fat": 2.5,
+      "serving": "tall glass"
+    },
+    "Banana milkshake with ice cream (Kele ka milkshake ice cream ke saath)": {
+      "cal": 76,
+      "protein": 2,
+      "carbs": 11.2,
+      "fat": 2.8,
+      "serving": "tall glass"
+    },
+    "Flavoured milkshake": {
+      "cal": 67,
+      "protein": 2.1,
+      "carbs": 8.6,
+      "fat": 2.8,
+      "serving": "tall glass"
+    },
+    "Mango milkshake with ice cream (Aam milkshake ice cream ke saath)": {
+      "cal": 68,
+      "protein": 1.9,
+      "carbs": 9.2,
+      "fat": 2.8,
+      "serving": "tall glass"
+    },
+    "Pineapple milkshake with ice cream (Ananas milkshake ice cream ke saath)": {
+      "cal": 68,
+      "protein": 1.9,
+      "carbs": 9.3,
+      "fat": 2.8,
+      "serving": "tall glass"
+    },
+    "Orange milkshake with ice cream (Narangi milkshake ice cream ke saath)": {
+      "cal": 68,
+      "protein": 1.9,
+      "carbs": 9.1,
+      "fat": 2.7,
+      "serving": "tall glass"
+    }
+  }
+}
